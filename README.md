@@ -4,6 +4,7 @@ Once this repository reaches 50 stars, I'll be adding an checker for banned name
 ## 🔍 Features
 - Fully Request Based
 - Checks For Available Name
+- Beautiful UI
 - Free & Easy To Use
 
 ## ✍️ Usage

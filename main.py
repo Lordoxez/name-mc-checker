@@ -92,10 +92,6 @@ def gay():
                                     checked += 1
                                     valid += 1
 
-                
-
-                                    
-
                         except Exception as e:
                             print(e)
 

@@ -6,14 +6,16 @@ import os
 try:
     import ctypes
     import tls_client
-    from pystyle import Write, Colors
-    from colorama import Fore, init
+    import pystyle
     import colorama
 except:
     os.system('pip install ctypes')
     os.system('pip install tls_client')
     os.system('pip install pystyle')
     os.system('pip install colorama')
+
+from colorama import Fore, init
+from pystyle import Write, Colors
 
 
 print_lock = threading.Lock()
